@@ -1,0 +1,37 @@
+.bg-custom{
+    background-image: url(../../public/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 95vh;
+
+}
+
+.title{
+    color: whitesmoke;
+    font-weight: 500;
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+    
+}
+
+.height-custom{
+    height: 50vh;
+}
+
+.height-title{
+    height: 30vh;
+}
+
+.text-custom{
+    color: whitesmoke;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.6);
+}
+
+.box-bg{
+background: rgb(117, 132, 153, 0.25);
+box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+backdrop-filter: blur(13px);
+
+
+
+}
